@@ -1,0 +1,8 @@
+4b9c55defc83d9313e65c294765724cc *DESCRIPTION
+bc6cd553aba4c140946aaae6f63eba30 *R/StochaTR-internal.R
+0d7f17fe2f32bec2879b0530b102503d *R/solveSLP.R
+0840c044c9b4ccf882b84b598e26fc8f *man/StochaTR-package.Rd
+318922e0bd0fee7d79de9ccbe6cf7bf7 *man/solveSLP.Rd
+0f2485b4b671d411fd8709f2812d0825 *src/Makevars.win
+ecb74c48d7930b8502d0e3df9f08c0a4 *src/ORaTRUni.cpp
+276eb92e0e1bdd6c0e5d39ea99a9a349 *src/StochaTRObjects.cpp
