@@ -1,14 +1,14 @@
 Package: StochaTR
 Type: Package
 Title: Solving stochastic linear programs with a single risk constraint
-Version: 1.0.3
+Version: 1.0.4
 Date: 2011-10-15
 Author: Pavel Bazovkin
 Maintainer: Pavel Bazovkin <econometrics@russia.ru>
-Depends: WMTregions
-Description: Solving stochastic linear programs with a single risk constraint. Coherent distortion risk measures are used.
+Description: Solving stochastic linear programs with a single risk
+        constraint. Coherent distortion risk measures are used.
 License: GPL-2
 LazyLoad: yes
-Packaged: 2011-11-02 17:31:21 UTC; Pasha
+Packaged: 2012-10-29 08:57:42 UTC; ripley
 Repository: CRAN
-Date/Publication: 2011-11-02 18:05:03
+Date/Publication: 2012-10-29 08:57:42
